@@ -1,13 +1,13 @@
 import { COLORS } from "@/lib/constants"
 
 const partners = [
-  "/partner/IDI.png",
-  "/partner/kemenkes.png",
-  "/partner/Logo_Biofarma-removebg-preview.png",
-  "/partner/Logo_Halodoc-removebg-preview (1).png",
-  "/partner/MANDIRI INHEALTH.png",
-  "/partner/abottt-removebg-preview.png",
-  "/partner/Satu_Sehat_Logo-removebg-preview.png",
+  "/Partner/IDI.png",
+  "/Partner/kemenkes.png",
+  "/Partner/Logo_Biofarma-removebg-preview.png",
+  "/Partner/Logo_Halodoc-removebg-preview (1).png",
+  "/Partner/MANDIRI INHEALTH.png",
+  "/Partner/abottt-removebg-preview.png",
+  "/Partner/Satu_Sehat_Logo-removebg-preview.png",
 ]
 
 export default function PartnersSection() {
