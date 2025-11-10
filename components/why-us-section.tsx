@@ -12,37 +12,37 @@ const whyUsCards: WhyUsCard[] = [
     id: 1,
     title: "Konsultasi Langsung",
     description: "Dengan tenaga medis profesional dan ramah",
-    icon: "/assets/Icon/Icon layanan 16 x 16 px_Konsultasi langsung dengan tenaga medis profesional dan ramah.png",
+    icon: "/icons/konsul.png",
   },
   {
     id: 2,
     title: "Teknologi Modern",
     description: "Peralatan medis canggih dan terkini",
-    icon: "/assets/Icon/Icon layanan 16 x 16 px_Teknologi medis modern.png",
+    icon: "/icons/teknologi.png",
   },
   {
     id: 3,
     title: "Vaksinasi Terjamin",
     description: "Layanan vaksinasi yang terjamin keasliannya",
-    icon: "/assets/Icon/Icon layanan 16 x 16 px_Layanan vaksinasi yang terjamin keasliannya.png",
+    icon: "/icons/vaksin.png",
   },
   {
     id: 4,
     title: "Fasilitas Nyaman",
     description: "Fasilitas nyaman & pelayanan terpercaya",
-    icon: "/assets/Icon/Icon layanan 16 x 16 px_Fasilitas nyaman & pelayanan terpercaya.png",
+    icon: "/icons/fasilitas.png",
   },
   {
     id: 5,
     title: "Homeservice",
     description: "Homeservice & layanan korporasi fleksibel",
-    icon: "/assets/Icon/Icon layanan 16 x 16 px_Homeservice & layanan korporasi fleksibel.png",
+    icon: "/icons/homeservice.png",
   },
   {
     id: 6,
     title: "Lokasi Strategis",
     description: "Lokasi strategis dan parkir luas",
-    icon: "/assets/Icon/Icon tambahan BUMC 16 x 16 px_Maps.png",
+    icon: "/icons/lokasi.png",
   },
 ]
 
