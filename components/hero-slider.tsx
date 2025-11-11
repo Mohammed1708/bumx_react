@@ -22,6 +22,11 @@ const slides: Slide[] = [
     image: "/Banners/Paket Vaksin Pekerja Migran Indonesia_Banner Website 1920 x 900.jpg",
     alt: "Paket Vaksin Pekerja Migran",
   },
+  {
+    id: 6,
+    image: "/Banners/ADS VIT C & IMUN BOOSTER_1920 x 900 px.jpg",
+    alt: "Paket Vaksin Pekerja Migran",
+  },
 ]
 
 export default function HeroSlider() {
